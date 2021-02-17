@@ -1,0 +1,39 @@
+C:\Users\pedro\source\repos\Examen 1\Examen 1\bin\Debug\netcoreapp3.1\Examen 1.exe
+C:\Users\pedro\source\repos\Examen 1\Examen 1\bin\Debug\netcoreapp3.1\Examen 1.deps.json
+C:\Users\pedro\source\repos\Examen 1\Examen 1\bin\Debug\netcoreapp3.1\Examen 1.runtimeconfig.json
+C:\Users\pedro\source\repos\Examen 1\Examen 1\bin\Debug\netcoreapp3.1\Examen 1.runtimeconfig.dev.json
+C:\Users\pedro\source\repos\Examen 1\Examen 1\bin\Debug\netcoreapp3.1\Examen 1.dll
+C:\Users\pedro\source\repos\Examen 1\Examen 1\bin\Debug\netcoreapp3.1\Examen 1.pdb
+C:\Users\pedro\source\repos\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.csprojAssemblyReference.cache
+C:\Users\pedro\source\repos\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.AssemblyInfoInputs.cache
+C:\Users\pedro\source\repos\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.AssemblyInfo.cs
+C:\Users\pedro\source\repos\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.csproj.CoreCompileInputs.cache
+C:\Users\pedro\source\repos\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.dll
+C:\Users\pedro\source\repos\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.pdb
+C:\Users\pedro\source\repos\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.genruntimeconfig.cache
+C:\Users\veneu\Downloads\Examen 1\Examen 1\Examen 1\bin\Debug\netcoreapp3.1\Examen 1.exe
+C:\Users\veneu\Downloads\Examen 1\Examen 1\Examen 1\bin\Debug\netcoreapp3.1\Examen 1.deps.json
+C:\Users\veneu\Downloads\Examen 1\Examen 1\Examen 1\bin\Debug\netcoreapp3.1\Examen 1.runtimeconfig.json
+C:\Users\veneu\Downloads\Examen 1\Examen 1\Examen 1\bin\Debug\netcoreapp3.1\Examen 1.runtimeconfig.dev.json
+C:\Users\veneu\Downloads\Examen 1\Examen 1\Examen 1\bin\Debug\netcoreapp3.1\Examen 1.dll
+C:\Users\veneu\Downloads\Examen 1\Examen 1\Examen 1\bin\Debug\netcoreapp3.1\Examen 1.pdb
+C:\Users\veneu\Downloads\Examen 1\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.csprojAssemblyReference.cache
+C:\Users\veneu\Downloads\Examen 1\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.AssemblyInfoInputs.cache
+C:\Users\veneu\Downloads\Examen 1\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.AssemblyInfo.cs
+C:\Users\veneu\Downloads\Examen 1\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.csproj.CoreCompileInputs.cache
+C:\Users\veneu\Downloads\Examen 1\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.dll
+C:\Users\veneu\Downloads\Examen 1\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.pdb
+C:\Users\veneu\Downloads\Examen 1\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Escritorio\Examen 1\Examen 1\bin\Debug\netcoreapp3.1\Examen 1.exe
+C:\Users\pedro\OneDrive\Escritorio\Examen 1\Examen 1\bin\Debug\netcoreapp3.1\Examen 1.deps.json
+C:\Users\pedro\OneDrive\Escritorio\Examen 1\Examen 1\bin\Debug\netcoreapp3.1\Examen 1.runtimeconfig.json
+C:\Users\pedro\OneDrive\Escritorio\Examen 1\Examen 1\bin\Debug\netcoreapp3.1\Examen 1.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Escritorio\Examen 1\Examen 1\bin\Debug\netcoreapp3.1\Examen 1.dll
+C:\Users\pedro\OneDrive\Escritorio\Examen 1\Examen 1\bin\Debug\netcoreapp3.1\Examen 1.pdb
+C:\Users\pedro\OneDrive\Escritorio\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Escritorio\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Escritorio\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Escritorio\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Escritorio\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.dll
+C:\Users\pedro\OneDrive\Escritorio\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.pdb
+C:\Users\pedro\OneDrive\Escritorio\Examen 1\Examen 1\obj\Debug\netcoreapp3.1\Examen 1.genruntimeconfig.cache
